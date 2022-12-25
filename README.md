@@ -7,8 +7,8 @@ https://huggingface.co/datasets/faruk/bengali-names-vs-gender
 
 If you face any problem regarding our code or dataset, you can contact us at the following email address:
 
-faruk.csebrur@gmail.com  /   humaun@bsfmstu.ac.bd
+faruk.csebrur@gmail.com 
 
 Contributors
-Faruk Ahmad (faruk.csebrur@gmail.com)
+Faruk Ahmad (faruk.csebrur@gmail.com), and 
 Md. Humaun Kabir (humaun@bsfmstu.ac.bd)
