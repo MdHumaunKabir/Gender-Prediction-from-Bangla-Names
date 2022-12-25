@@ -9,6 +9,6 @@ If you face any problem regarding our code or dataset, you can contact us at the
 
 faruk.csebrur@gmail.com 
 
-Contributors
+Contributors: 
 Faruk Ahmad (faruk.csebrur@gmail.com), and 
 Md. Humaun Kabir (humaun@bsfmstu.ac.bd)
